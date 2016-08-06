@@ -1,0 +1,27 @@
+_repo: With-the-Turks-in-Palestine_10338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aaronsohn, Alexander
+    birthdate: 1888
+    deathdate: 1948
+    gutenberg_agent_id: '3474'
+    url: http://www.gutenberg.org/2009/agents/3474
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Aaronsohn
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- GITenberg
+title: With the Turks in Palestine
+url: http://www.gutenberg.org/ebooks/10338
