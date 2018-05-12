@@ -1,5 +1,8 @@
 _repo: With-the-Turks-in-Palestine_10338
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aaronsohn, Alexander
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3474
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Aaronsohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10338#With-the-Turks-in-Palestine
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
